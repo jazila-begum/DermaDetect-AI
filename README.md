@@ -32,7 +32,7 @@ All models were initialized with ImageNet weights and trained under identical co
 
 ---
 
-## ⚙️ Training & Evaluation
+## Training & Evaluation
 
 * **Loss Function:** Categorical Cross-Entropy
 * **Optimizer:** AdamW
@@ -42,7 +42,7 @@ All models were initialized with ImageNet weights and trained under identical co
 
 ---
 
-## 🏆 Key Results
+## Key Results
 
 | Model        | Accuracy | F1-Score | Notes                                             |
 | ------------ | -------- | -------- | ------------------------------------------------- |
