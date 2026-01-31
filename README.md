@@ -66,13 +66,13 @@ This improves **trust, interpretability, and clinical usability**, aligning the 
 * **`app.py`**
   Main Streamlit application providing the user interface for uploading dermoscopic images and generating real-time predictions.
 
-* **`best_modelcvn.pth`**
+* **`best_model_convnextv2.zip`**
   Trained **ConvNeXtV2** model weights. This model achieved the best overall performance, particularly in melanoma detection, and is used for inference in the app.
 
 * **`efficientnet.ipynb`**
   Jupyter notebook containing the complete training, validation, and evaluation pipeline for the EfficientNet model.
 
-* **`convnextv2(1).ipynb`**
+* **`convnextv2.ipynb`**
   Jupyter notebook for training and evaluating ConvNeXtV2, including performance analysis and Grad-CAM visualization.
 
 * **`resnet18.ipynb`**
