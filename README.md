@@ -44,12 +44,6 @@ All models were initialized with ImageNet weights and trained under identical co
 
 ## Key Results
 
-| Model        | Accuracy | F1-Score | Notes                                             |
-| ------------ | -------- | -------- | ------------------------------------------------- |
-| ResNet18     | 85%      | 0.84     | Strong on common classes, weaker melanoma recall  |
-| EfficientNet | 87%      | 0.86     | Balanced performance and computational efficiency |
-| ConvNeXtV2   | **88%**  | **0.87** | Best overall performance and melanoma sensitivity |
-
 ConvNeXtV2 demonstrated superior generalization and explainability, making it the most suitable model for clinical decision-support settings.
 
 ---
